@@ -1,0 +1,77 @@
+.container {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+#que_hacemos {
+  float: left;
+  width: 45%;
+  padding: 0 10px 0 10px;
+}
+
+#imagen {
+  width: 50%;
+  margin-left: 472px;
+  padding: 0 10px 0 10px;
+  text-align: center;
+  height: 332px;
+}
+
+.titulo {
+  background-color: #2b90d9;
+  opacity: .7;
+  padding: 10px;
+}
+
+#turtles {
+  float: left;
+  width: 45%;
+  padding: 0 10px 0 10px;
+}
+
+#ruby {
+  margin-left: 472px;
+  padding: 0 10px 0 10px;
+}
+
+#pricing {
+  float: left;
+  width: 45%;
+  padding: 0 10px 0 10px;
+}
+
+#about{
+  margin-left: 472px;
+  padding: 0 10px 0 10px;
+}
+
+.footer{
+  margin-top:30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  opacity: .7; 
+}
+
+
+
+
+
+
+
+
+
